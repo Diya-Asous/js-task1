@@ -1,0 +1,8 @@
+.demo {
+  width: fit-content;
+  border: red solid 5px;
+}
+
+.vip {
+  background-color: green;
+}
